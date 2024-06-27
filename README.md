@@ -629,7 +629,6 @@ xhr.send(body);
 </p>
 ```
 
-**S9 - Add Document Elements with D3**<br>
 
 ```js
 ```
